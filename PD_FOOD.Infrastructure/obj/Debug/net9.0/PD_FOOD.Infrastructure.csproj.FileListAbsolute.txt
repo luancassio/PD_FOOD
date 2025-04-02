@@ -1,0 +1,15 @@
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\bin\Debug\net9.0\PD_FOOD.Infrastructure.deps.json
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\bin\Debug\net9.0\PD_FOOD.Infrastructure.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\bin\Debug\net9.0\PD_FOOD.Infrastructure.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\bin\Debug\net9.0\PD_FOOD.Domain.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\bin\Debug\net9.0\PD_FOOD.Domain.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.AssemblyInfo.cs
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD..0684D3B1.Up2Date
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\refint\PD_FOOD.Infrastructure.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\PD_FOOD.Infrastructure.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Infrastructure\obj\Debug\net9.0\ref\PD_FOOD.Infrastructure.dll
