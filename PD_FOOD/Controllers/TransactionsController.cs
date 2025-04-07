@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using PD_FOOD.Application.Commands;
-using PD_FOOD.Application.Queries;
+using PD_FOOD.Application.Commands.Transactions;
+using PD_FOOD.Application.Queries.Transactions;
 using System.Net;
 
 namespace PD_FOOD.Controllers
@@ -38,11 +38,23 @@ namespace PD_FOOD.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
         {
-            _logger.LogInformation("Getting all transactions...");
-            var result = await _mediator.Send(new GetAllTransactionsQuery());
-            _logger.LogInformation("Returned {Count} transactions", result.Count);
+            _logger.LogInformation("Getting all transactions - Page: {Page}, Size: {PageSize}", page, pageSize);
+            if (page < 1 || pageSize < 1)
+            {
+                _logger.LogWarning("Invalid pagination parameters: Page {Page}, Size {PageSize}", page, pageSize);
+                AddErrorProcess($"Invalid pagination parameters: Page {page}, Size {pageSize}");
+                return CustomResponse();
+            }
+            var result = await _mediator.Send(new GetAllTransactionsQuery
+            {
+                Page = page,
+                PageSize = pageSize
+            });
+
+            _logger.LogInformation("Returned {Count} transactions", result.Items.Count);
+
             return CustomResponse(new { status = HttpStatusCode.OK, data = result });
         }
 
@@ -60,7 +72,7 @@ namespace PD_FOOD.Controllers
             }
 
             _logger.LogInformation("Transaction found: {TransactionId}", id);
-            return CustomResponse(result);
+            return CustomResponse(new { status = HttpStatusCode.OK, data = result });
         }
 
         [HttpGet("negative-balance-days")]

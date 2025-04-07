@@ -120,6 +120,62 @@ namespace PD_FOOD.Infrastructure.Migrations
                             Type = 2
                         });
                 });
+
+            modelBuilder.Entity("PD_FOOD.Domain.Entities.UserNotification", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
+
+                    b.Property<TimeOnly>("Hour")
+                        .HasColumnType("TIME");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("boolean");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
+
+                    b.ToTable("UserNotifications", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("8b4cfc53-2ad6-4e61-8d5e-4ff2d7a1c31b"),
+                            Email = "luancassio2307@gmail.com",
+                            Hour = new TimeOnly(18, 0, 0),
+                            IsActive = true,
+                            Name = "Luan Cássio"
+                        },
+                        new
+                        {
+                            Id = new Guid("4313f41e-055b-4ff7-9c2a-55360d90a5aa"),
+                            Email = "josielesilva2802@gmail.com",
+                            Hour = new TimeOnly(18, 0, 0),
+                            IsActive = true,
+                            Name = "Josiele Gomes"
+                        },
+                        new
+                        {
+                            Id = new Guid("3c905bd1-e6ce-441b-9305-c2441bc6c85b"),
+                            Email = "teste123@gmail.com",
+                            Hour = new TimeOnly(18, 0, 0),
+                            IsActive = false,
+                            Name = "Email Teste"
+                        });
+                });
 #pragma warning restore 612, 618
         }
     }

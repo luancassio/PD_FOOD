@@ -2,6 +2,7 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\appsettings.Developm
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\appsettings.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.staticwebassets.endpoints.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.exe
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Email\Templates\template_email.html
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.deps.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.runtimeconfig.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.dll
@@ -28,10 +29,14 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.EntityFram
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -41,6 +46,7 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Mono.TextTemplating.
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Npgsql.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Resend.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Swashbuckle.AspNetCore.ReDoc.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -120,7 +126,9 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\zh-Hant\Microsoft.Co
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Application.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Domain.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Infrastructure.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Worker.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Application.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Worker.pdb
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Domain.pdb
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\bin\Debug\net9.0\PD_FOOD.Infrastructure.pdb
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.csproj.AssemblyReference.cache
@@ -130,6 +138,7 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.AssemblyInfo
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.csproj.CoreCompileInputs.cache
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\PD_FOOD.sourcelink.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\scopedcss\bundle\PD_FOOD.styles.css
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD\obj\Debug\net9.0\staticwebassets.development.json

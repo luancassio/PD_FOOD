@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PD_FOOD.Infrastructure\PD_FOOD.Infrastructure.csproj" />
+    <ProjectReference Include="..\PD_FOOD.Application\PD_FOOD.Application.csproj" />
+    <ProjectReference Include="..\PD_FOOD.Domain\PD_FOOD.Domain.csproj" />
+	<ProjectReference Include="..\PD_FOOD.Infrastructure\PD_FOOD.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -5,6 +5,7 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domai
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.AssemblyInfoInputs.cache
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.AssemblyInfo.cs
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.sourcelink.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\refint\PD_FOOD.Domain.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Debug\net9.0\PD_FOOD.Domain.pdb

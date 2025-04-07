@@ -1,13 +1,13 @@
 ﻿using Moq;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using PD_FOOD.Application.Commands;
-using PD_FOOD.Application.Queries;
 using PD_FOOD.Controllers;
 using System.Net;
 using PD_FOOD.Domain.Entities;
 using PD_FOOD.Domain.Dtos;
 using Microsoft.Extensions.Logging;
+using PD_FOOD.Application.Commands.Transactions;
+using PD_FOOD.Application.Queries.Transactions;
 
 namespace PD_FOOD.Test.Controller
 {
@@ -57,23 +57,29 @@ namespace PD_FOOD.Test.Controller
         [Fact]
         public async Task GetAll_ShouldReturnOkWithList()
         {
-            var expectedList = new List<FinancialTransaction>
-        {
-            new FinancialTransaction
+            var expectedList = new PagedResult<FinancialTransaction>
             {
-                Id = Guid.NewGuid(),
-                Type = TransactionType.Income,
-                Date = DateTime.UtcNow,
-                Description = "Teste A",
-                Amount = 500
-            }
-        };
+                Items = new List<FinancialTransaction>
+                {
+                    new FinancialTransaction
+                    {
+                        Id = Guid.NewGuid(),
+                        Type = TransactionType.Income,
+                        Date = DateTime.UtcNow,
+                        Description = "Teste A",
+                        Amount = 500
+                    }
+                },
+                Page = 1,
+                PageSize = 5,
+                TotalCount = 1
+            };
 
             _mediatorMock
                 .Setup(m => m.Send(It.IsAny<GetAllTransactionsQuery>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(expectedList);
 
-            var result = await _controller.GetAll();
+            var result = await _controller.GetAll(1, 5);
             var response = Assert.IsType<OkObjectResult>(result);
             Assert.Equal(200, response.StatusCode ?? 200);
         }

@@ -15,6 +15,7 @@
           "Microsoft.EntityFrameworkCore.Design": "9.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "PD_FOOD.Application": "1.0.0",
+          "PD_FOOD.Worker": "1.0.0",
           "Swashbuckle.AspNetCore": "8.1.0",
           "Swashbuckle.AspNetCore.ReDoc": "8.1.0",
           "Swashbuckle.AspNetCore.SwaggerUI": "8.1.0"
@@ -489,6 +490,18 @@
           }
         }
       },
+      "Microsoft.Extensions.Configuration/9.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Primitives": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration.Abstractions/9.0.3": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "9.0.3"
@@ -498,6 +511,23 @@
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.325.11113"
           }
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "9.0.3",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "Microsoft.Extensions.FileProviders.Abstractions": "9.0.3",
+          "Microsoft.Extensions.FileProviders.Physical": "9.0.0",
+          "Microsoft.Extensions.Primitives": "9.0.3"
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "9.0.3",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Configuration.FileExtensions": "9.0.0",
+          "Microsoft.Extensions.FileProviders.Abstractions": "9.0.3"
         }
       },
       "Microsoft.Extensions.DependencyInjection/9.0.3": {
@@ -523,6 +553,52 @@
         "runtime": {
           "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
             "assemblyVersion": "9.0.0.3",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Microsoft.Extensions.Diagnostics.Abstractions/9.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Options": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/9.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/9.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "9.0.3",
+          "Microsoft.Extensions.FileSystemGlobbing": "9.0.0",
+          "Microsoft.Extensions.Primitives": "9.0.3"
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/9.0.0": {},
+      "Microsoft.Extensions.Hosting.Abstractions/9.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Diagnostics.Abstractions": "9.0.3",
+          "Microsoft.Extensions.FileProviders.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.3"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.325.11113"
           }
         }
@@ -685,6 +761,17 @@
           "lib/netstandard1.3/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll": {
             "assemblyVersion": "1.1.0.0",
             "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Resend/0.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "9.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/Resend.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
           }
         }
       },
@@ -1433,8 +1520,7 @@
           "FluentValidation": "11.11.0",
           "MediatR": "12.5.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
-          "PD_FOOD.Domain": "1.0.0",
-          "PD_FOOD.Infrastructure": "1.0.0"
+          "PD_FOOD.Domain": "1.0.0"
         },
         "runtime": {
           "PD_FOOD.Application.dll": {
@@ -1455,12 +1541,30 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
+          "Microsoft.Extensions.Configuration": "9.0.3",
+          "Microsoft.Extensions.Configuration.FileExtensions": "9.0.0",
+          "Microsoft.Extensions.Configuration.Json": "9.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "Npgsql.EntityFrameworkCore.PostgreSQL.Design": "1.1.0",
-          "PD_FOOD.Domain": "1.0.0"
+          "PD_FOOD.Domain": "1.0.0",
+          "Resend": "0.1.0"
         },
         "runtime": {
           "PD_FOOD.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PD_FOOD.Worker/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Hosting.Abstractions": "9.0.3",
+          "PD_FOOD.Application": "1.0.0",
+          "PD_FOOD.Domain": "1.0.0",
+          "PD_FOOD.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "PD_FOOD.Worker.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1649,12 +1753,33 @@
       "path": "microsoft.extensions.caching.memory/9.0.3",
       "hashPath": "microsoft.extensions.caching.memory.9.0.3.nupkg.sha512"
     },
+    "Microsoft.Extensions.Configuration/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RIEeZxWYm77+OWLwgik7DzSVSONjqkmcbuCb1koZdGAV7BgOUWnLz80VMyHZMw3onrVwFCCMHBBdruBPuQTvkg==",
+      "path": "microsoft.extensions.configuration/9.0.3",
+      "hashPath": "microsoft.extensions.configuration.9.0.3.nupkg.sha512"
+    },
     "Microsoft.Extensions.Configuration.Abstractions/9.0.3": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-q5qlbm6GRUrle2ZZxy9aqS/wWoc+mRD3JeP6rcpiJTh5XcemYkplAcJKq8lU11ZfPom5lfbZZfnQvDqcUhqD5Q==",
       "path": "microsoft.extensions.configuration.abstractions/9.0.3",
       "hashPath": "microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4EK93Jcd2lQG4GY6PAw8jGss0ZzFP0vPc1J85mES5fKNuDTqgFXHba9onBw2s18fs3I4vdo2AWyfD1mPAxWSQQ==",
+      "path": "microsoft.extensions.configuration.fileextensions/9.0.0",
+      "hashPath": "microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Json/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WiTK0LrnsqmedrbzwL7f4ZUo+/wByqy2eKab39I380i2rd8ImfCRMrtkqJVGDmfqlkP/YzhckVOwPc5MPrSNpg==",
+      "path": "microsoft.extensions.configuration.json/9.0.0",
+      "hashPath": "microsoft.extensions.configuration.json.9.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection/9.0.3": {
       "type": "package",
@@ -1676,6 +1801,41 @@
       "sha512": "sha512-194P+NOekDXrPHmM2R8678T4bRfZ2isQXDDAsXKE5qI0QLUnXbwB0upljAkyxk+Kkt1DV1tV+9tHOtHEEh3ksw==",
       "path": "microsoft.extensions.dependencymodel/9.0.3",
       "hashPath": "microsoft.extensions.dependencymodel.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Diagnostics.Abstractions/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/fn0Xe8t+3YbMfwyTk4hFirWyAG1pBA5ogVYsrKAuuD2gbqOWhFuSA28auCmS3z8Y2eq3miDIKq4pFVRWA+J6g==",
+      "path": "microsoft.extensions.diagnostics.abstractions/9.0.3",
+      "hashPath": "microsoft.extensions.diagnostics.abstractions.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-umczZ3+QPpzlrW/lkvy+IB0p52+qZ5w++aqx2lTCMOaPKzwcbVdrJgiQ3ajw5QWBp7gChLUiCYkSlWUpfjv24g==",
+      "path": "microsoft.extensions.fileproviders.abstractions/9.0.3",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Physical/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3+ZUSpOSmie+o8NnLIRqCxSh65XL/ExU7JYnFOg58awDRlY3lVpZ9A369jkoZL1rpsq7LDhEfkn2ghhGaY1y5Q==",
+      "path": "microsoft.extensions.fileproviders.physical/9.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.physical.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jGFKZiXs2HNseK3NK/rfwHNNovER71jSj4BD1a/649ml9+h6oEtYd0GSALZDNW8jZ2Rh+oAeadOa6sagYW1F2A==",
+      "path": "microsoft.extensions.filesystemglobbing/9.0.0",
+      "hashPath": "microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Hosting.Abstractions/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rHabYVhQsGYNfgnfnYLqZRx/hLe85i6jW5rnDjA9pjt3x7yjPv8T/EXcgN5T9T38FAVwZRA+RMGUkEHbxvCOBQ==",
+      "path": "microsoft.extensions.hosting.abstractions/9.0.3",
+      "hashPath": "microsoft.extensions.hosting.abstractions.9.0.3.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/9.0.3": {
       "type": "package",
@@ -1767,6 +1927,13 @@
       "sha512": "sha512-+taA6t8sRI0JTbyCZH0GobEtJYvU4aAGBf5/2/CutWHiYpO2nLfJ8SQSyWYMKakrwn1/NDM9VV85mGEAzBZ7LQ==",
       "path": "npgsql.entityframeworkcore.postgresql.design/1.1.0",
       "hashPath": "npgsql.entityframeworkcore.postgresql.design.1.1.0.nupkg.sha512"
+    },
+    "Resend/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+pWgqhYLT+xPLMZjv+C6lA7RwuukYkdolOGjAQZP+CCVGaiRpeqXxjQSF9I9Vo/VTqEclp3uA5TE9nHD1JkQiA==",
+      "path": "resend/0.1.0",
+      "hashPath": "resend.0.1.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
@@ -2388,6 +2555,11 @@
       "sha512": ""
     },
     "PD_FOOD.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PD_FOOD.Worker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

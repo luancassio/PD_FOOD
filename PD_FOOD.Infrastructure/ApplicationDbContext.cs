@@ -8,6 +8,8 @@ namespace PD_FOOD.Infrastructure
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
         public DbSet<FinancialTransaction> FinancialTransactions => Set<FinancialTransaction>();
+        public DbSet<UserNotification> UserNotifications => Set<UserNotification>();
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -92,8 +94,34 @@ namespace PD_FOOD.Infrastructure
                 }
 
             );
-        }
 
+            modelBuilder.Entity<UserNotification>().HasData(
+                new UserNotification
+                {
+                    Id = new Guid("8b4cfc53-2ad6-4e61-8d5e-4ff2d7a1c31b"),
+                    Email = "luancassio2307@gmail.com",
+                    Name = "Luan Cássio",
+                    Hour = new TimeOnly(18, 0),
+                    IsActive = true
+                },
+                new UserNotification
+                {
+                    Id = new Guid("4313f41e-055b-4ff7-9c2a-55360d90a5aa"),
+                    Email = "josielesilva2802@gmail.com",
+                    Name = "Josiele Gomes",
+                    Hour = new TimeOnly(18, 0),
+                    IsActive = true
+                },
+                new UserNotification
+                {
+                    Id = new Guid("3c905bd1-e6ce-441b-9305-c2441bc6c85b"),
+                    Email = "teste123@gmail.com",
+                    Name = "Email Teste",
+                    Hour = new TimeOnly(18, 0),
+                    IsActive = false
+                }
+            );
+        }
 
     }
 

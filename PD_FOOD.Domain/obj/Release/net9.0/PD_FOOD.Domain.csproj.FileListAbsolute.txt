@@ -1,0 +1,12 @@
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\bin\Release\net9.0\PD_FOOD.Domain.deps.json
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\bin\Release\net9.0\PD_FOOD.Domain.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\bin\Release\net9.0\PD_FOOD.Domain.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.AssemblyInfoInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.AssemblyInfo.cs
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.sourcelink.json
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\refint\PD_FOOD.Domain.dll
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\PD_FOOD.Domain.pdb
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Domain\obj\Release\net9.0\ref\PD_FOOD.Domain.dll

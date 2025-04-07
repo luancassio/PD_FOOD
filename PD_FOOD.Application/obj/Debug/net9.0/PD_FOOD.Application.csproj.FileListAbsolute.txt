@@ -2,14 +2,13 @@ C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Application.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Application.pdb
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Domain.dll
-C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Infrastructure.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Domain.pdb
-C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\bin\Debug\net9.0\PD_FOOD.Infrastructure.pdb
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.csproj.AssemblyReference.cache
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.AssemblyInfoInputs.cache
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.AssemblyInfo.cs
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.sourcelink.json
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD..5E2847F5.Up2Date
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\PD_FOOD.Application.dll
 C:\Users\Luan\source\repos\PD_FOOD\PD_FOOD.Application\obj\Debug\net9.0\refint\PD_FOOD.Application.dll

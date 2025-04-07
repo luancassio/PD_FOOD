@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PD_FOOD.WorkerTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d72652d411695ff8a6f7c5eb3718a9f110b92055")]
 [assembly: System.Reflection.AssemblyProductAttribute("PD_FOOD.WorkerTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PD_FOOD.WorkerTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

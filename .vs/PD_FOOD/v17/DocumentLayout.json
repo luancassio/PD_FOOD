@@ -3,112 +3,220 @@
   "WorkspaceRootPath": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\controller\\transactionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\controller\\transactionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\email\\templates\\template_email.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\email\\templates\\template_email.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1429ADA9-BD54-48F2-951F-DCE063C754CC}|PD_FOOD.WorkerTest\\PD_FOOD.WorkerTest.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.workertest\\smtp\\smtpworkertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1429ADA9-BD54-48F2-951F-DCE063C754CC}|PD_FOOD.WorkerTest\\PD_FOOD.WorkerTest.csproj|solutionrelative:pd_food.workertest\\smtp\\smtpworkertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.worker\\emailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|solutionrelative:pd_food.worker\\emailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.worker\\smtp\\smtpworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|solutionrelative:pd_food.worker\\smtp\\smtpworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\transactions\\createtransactioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\transactions\\createtransactioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\middleware\\exceptionmiddlewaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\middleware\\exceptionmiddlewaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\pd_food.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\pd_food.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\pd_food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\pd_food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.worker\\services\\smtpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|solutionrelative:pd_food.worker\\services\\smtpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\intercface\\ismtpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\intercface\\ismtpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\getnegativebalancedaysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\getnegativebalancedaysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\getalltransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\getalltransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\createtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\createtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\createtransactioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\createtransactioncommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\getnegativebalancedaysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\getnegativebalancedaysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\dtos\\dailybalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\dtos\\dailybalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\pd_food.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\pd_food.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\financialtransactionmap\\financialtransactionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\financialtransactionmap\\financialtransactionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\getalltransactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\getalltransactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\email\\resendemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\email\\resendemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\controllers\\usernotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\controllers\\usernotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\createusernotificationscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\createusernotificationscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\deleteusernotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\deleteusernotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\deleteusernotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\deleteusernotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\createusernotificationscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\createusernotificationscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\controller\\usernotificationscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\controller\\usernotificationscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\repositories\\usernotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\repositories\\usernotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\interfaces\\iusernotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\interfaces\\iusernotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\entities\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\entities\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\createusernotificationscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\createusernotificationscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\updateusernotificationisactivecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\updateusernotificationisactivecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\usernotifications\\updateusernotificationisactivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\usernotifications\\updateusernotificationisactivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\mapping\\usernotificationmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\mapping\\usernotificationmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429ADA9-BD54-48F2-951F-DCE063C754CC}|PD_FOOD.WorkerTest\\PD_FOOD.WorkerTest.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.workertest\\emailworkertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429ADA9-BD54-48F2-951F-DCE063C754CC}|PD_FOOD.WorkerTest\\PD_FOOD.WorkerTest.csproj|solutionrelative:pd_food.workertest\\emailworkertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\mapping\\financialtransactionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\mapping\\financialtransactionmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\pd_food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\pd_food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\controller\\transactionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\controller\\transactionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\email\\base\\emailsenderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\email\\base\\emailsenderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\usernotifications\\getallusernotificationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\usernotifications\\getallusernotificationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\transactions\\gettransactionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\transactions\\gettransactionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\usernotifications\\getallusernotificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\usernotifications\\getallusernotificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\transactions\\getnegativebalancedaysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\transactions\\getnegativebalancedaysquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\transactions\\getalltransactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\transactions\\getalltransactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\transactions\\getalltransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\transactions\\getalltransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\transactions\\createtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\transactions\\createtransactioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\commands\\transactions\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\commands\\transactions\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\pd_food.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\pd_food.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\queries\\transactions\\getnegativebalancedaysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\queries\\transactions\\getnegativebalancedaysqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.infrastructure\\configurations\\emailsettingsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003EDDC1-E3DB-4719-B78C-E54D0490F5FF}|PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj|solutionrelative:pd_food.infrastructure\\configurations\\emailsettingsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\dtos\\dailybalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\dtos\\dailybalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.worker\\pd_food.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAAEB2A3-AA7C-4CCA-AF1A-60969C9F4D48}|PD_FOOD.Worker\\PD_FOOD.Worker.csproj|solutionrelative:pd_food.worker\\pd_food.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\pd_food.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\pd_food.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.application\\pd_food.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8D3242A8-18BC-4D04-9C0C-1916BBF47F72}|PD_FOOD.Application\\PD_FOOD.Application.csproj|solutionrelative:pd_food.application\\pd_food.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\pd_food.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\pd_food.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.domain\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C80D90-2740-4D1F-BDF6-C8FCFE927025}|PD_FOOD.Domain\\PD_FOOD.Domain.csproj|solutionrelative:pd_food.domain\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food.test\\middleware\\exceptionmiddlewaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37548198-53AE-4B09-9C7A-EA8A8A3772D9}|PD_FOOD.Test\\PD_FOOD.Test.csproj|solutionrelative:pd_food.test\\middleware\\exceptionmiddlewaretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|c:\\users\\luan\\source\\repos\\pd_food\\pd_food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F6BEE9A-BAE2-4B14-BA08-335DE9581776}|PD_FOOD\\PD_FOOD.csproj|solutionrelative:pd_food\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,38 +226,367 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExceptionMiddlewareTest.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
-              "RelativeToolTip": "PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateTransactionCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandValidator.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandValidator.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:10:01.698Z",
+              "WhenOpened": "2025-04-02T01:18:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\EmailWorker.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Worker\\EmailWorker.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\EmailWorker.cs",
+              "RelativeToolTip": "PD_FOOD.Worker\\EmailWorker.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:25:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "template_email.html",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\Templates\\template_email.html",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Email\\Templates\\template_email.html",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\Templates\\template_email.html",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Email\\Templates\\template_email.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-05T06:23:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Program.cs",
+              "RelativeDocumentMoniker": "PD_FOOD\\Program.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Program.cs",
+              "RelativeToolTip": "PD_FOOD\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAApwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:00:28.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:38:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResendEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\ResendEmailSender.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Email\\ResendEmailSender.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\ResendEmailSender.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Email\\ResendEmailSender.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T02:39:59.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteUserNotificationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommandHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommandHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:50:23.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PD_FOOD\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.Development.json",
+              "RelativeToolTip": "PD_FOOD\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T02:22:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserNotificationsCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandValidator.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandValidator.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:30:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "PD_FOOD\\Middlewares\\ExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeToolTip": "PD_FOOD\\Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T05:06:23.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PD_FOOD",
+              "DocumentIndex": 7,
+              "Title": "UserNotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\UserNotificationsController.cs",
+              "RelativeDocumentMoniker": "PD_FOOD\\Controllers\\UserNotificationsController.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\UserNotificationsController.cs",
+              "RelativeToolTip": "PD_FOOD\\Controllers\\UserNotificationsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:57:41.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteUserNotificationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommand.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommand.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommand.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\DeleteUserNotificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:49:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserNotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Repositories\\UserNotificationRepository.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Repositories\\UserNotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Repositories\\UserNotificationRepository.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Repositories\\UserNotificationRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:20:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "PD_FOOD\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\MainController.cs",
+              "RelativeToolTip": "PD_FOOD\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:25:51.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "PD_FOOD\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "PD_FOOD\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:14:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserNotificationsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommand.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommand.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommand.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:29:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserNotificationsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Controller\\UserNotificationsControllerTests.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Test\\Controller\\UserNotificationsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Controller\\UserNotificationsControllerTests.cs",
+              "RelativeToolTip": "PD_FOOD.Test\\Controller\\UserNotificationsControllerTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:58:52.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserNotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\IUserNotificationRepository.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Interfaces\\IUserNotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\IUserNotificationRepository.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Interfaces\\IUserNotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:18:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\UserNotification.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Entities\\UserNotification.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\UserNotification.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Entities\\UserNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:10:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:31:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserNotificationsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\CreateUserNotificationsCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:29:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateUserNotificationIsActiveCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommandHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommandHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:38:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserNotificationIsActiveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommand.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommand.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommand.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\UserNotifications\\UpdateUserNotificationIsActiveCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:38:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserNotificationMap.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Mapping\\UserNotificationMap.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Mapping\\UserNotificationMap.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Mapping\\UserNotificationMap.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Mapping\\UserNotificationMap.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:14:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FinancialTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:28:53.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailWorkerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.WorkerTest\\EmailWorkerTest.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.WorkerTest\\EmailWorkerTest.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.WorkerTest\\EmailWorkerTest.cs",
+              "RelativeToolTip": "PD_FOOD.WorkerTest\\EmailWorkerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:22:48.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FinancialTransactionMap.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Mapping\\FinancialTransactionMap.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Mapping\\FinancialTransactionMap.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Mapping\\FinancialTransactionMap.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Mapping\\FinancialTransactionMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:58:45.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PD_FOOD.csproj",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\PD_FOOD.csproj",
               "RelativeDocumentMoniker": "PD_FOOD\\PD_FOOD.csproj",
               "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\PD_FOOD.csproj",
@@ -160,101 +597,294 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SmtpWorkerTest.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.WorkerTest\\Smtp\\SmtpWorkerTest.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.WorkerTest\\Smtp\\SmtpWorkerTest.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.WorkerTest\\Smtp\\SmtpWorkerTest.cs",
-              "RelativeToolTip": "PD_FOOD.WorkerTest\\Smtp\\SmtpWorkerTest.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:12:16.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TransactionsController.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\TransactionsController.cs",
-              "RelativeDocumentMoniker": "PD_FOOD\\Controllers\\TransactionsController.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\TransactionsController.cs",
-              "RelativeToolTip": "PD_FOOD\\Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:14:41.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Program.cs",
-              "RelativeDocumentMoniker": "PD_FOOD\\Program.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Program.cs",
-              "RelativeToolTip": "PD_FOOD\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T00:00:28.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 28,
               "Title": "TransactionsControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Controller\\TransactionsControllerTests.cs",
               "RelativeDocumentMoniker": "PD_FOOD.Test\\Controller\\TransactionsControllerTests.cs",
               "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Controller\\TransactionsControllerTests.cs",
               "RelativeToolTip": "PD_FOOD.Test\\Controller\\TransactionsControllerTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T03:56:25.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SmtpWorker.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\Smtp\\SmtpWorker.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Worker\\Smtp\\SmtpWorker.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\Smtp\\SmtpWorker.cs",
-              "RelativeToolTip": "PD_FOOD.Worker\\Smtp\\SmtpWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "EmailSenderBase.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\Base\\EmailSenderBase.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Email\\Base\\EmailSenderBase.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Email\\Base\\EmailSenderBase.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Email\\Base\\EmailSenderBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:25:26.525Z",
+              "WhenOpened": "2025-04-05T02:39:15.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetNegativeBalanceDaysQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQueryHandler.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQueryHandler.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQueryHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "GetAllUserNotificationsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQueryHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQueryHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:22:26.573Z"
+              "WhenOpened": "2025-04-05T18:30:30.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:19:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:00:03.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetTransactionByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetTransactionByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\Transactions\\GetTransactionByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetTransactionByIdQueryHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\Transactions\\GetTransactionByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:32:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllUserNotificationsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQuery.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQuery.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQuery.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\UserNotifications\\GetAllUserNotificationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:29:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetNegativeBalanceDaysQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQuery.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQuery.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQuery.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:22:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetAllTransactionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQuery.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQuery.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQuery.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:21:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "GetAllTransactionsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetAllTransactionsQueryHandler.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\GetAllTransactionsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetAllTransactionsQueryHandler.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Queries\\GetAllTransactionsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQueryHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQueryHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\Transactions\\GetAllTransactionsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:21:59.75Z"
+              "WhenOpened": "2025-04-04T18:27:54.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 38,
+              "Title": "CreateTransactionCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:18:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateTransactionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommand.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommand.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommand.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Commands\\Transactions\\CreateTransactionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:18:16.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PD_FOOD.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\PD_FOOD.Infrastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T03:22:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetNegativeBalanceDaysQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQueryHandler.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQueryHandler.cs",
+              "RelativeToolTip": "PD_FOOD.Application\\Queries\\Transactions\\GetNegativeBalanceDaysQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:22:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:22:51.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:30:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DailyBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:21:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmailSettingsConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Configurations\\EmailSettingsConfigurations.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\Configurations\\EmailSettingsConfigurations.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\Configurations\\EmailSettingsConfigurations.cs",
+              "RelativeToolTip": "PD_FOOD.Infrastructure\\Configurations\\EmailSettingsConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T02:36:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.json",
+              "RelativeDocumentMoniker": "PD_FOOD\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.json",
+              "RelativeToolTip": "PD_FOOD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T04:45:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PD_FOOD.Worker.csproj",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\PD_FOOD.Worker.csproj",
+              "RelativeDocumentMoniker": "PD_FOOD.Worker\\PD_FOOD.Worker.csproj",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\PD_FOOD.Worker.csproj",
+              "RelativeToolTip": "PD_FOOD.Worker\\PD_FOOD.Worker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T23:33:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PD_FOOD.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
+              "RelativeToolTip": "PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T03:20:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PD_FOOD.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\PD_FOOD.Application.csproj",
+              "RelativeDocumentMoniker": "PD_FOOD.Application\\PD_FOOD.Application.csproj",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\PD_FOOD.Application.csproj",
+              "RelativeToolTip": "PD_FOOD.Application\\PD_FOOD.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T01:16:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "PD_FOOD.Test.csproj",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\PD_FOOD.Test.csproj",
               "RelativeDocumentMoniker": "PD_FOOD.Test\\PD_FOOD.Test.csproj",
@@ -267,163 +897,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISmtpSender.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Intercface\\ISmtpSender.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Intercface\\ISmtpSender.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Intercface\\ISmtpSender.cs",
-              "RelativeToolTip": "PD_FOOD.Domain\\Intercface\\ISmtpSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 51,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\PagedResult.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Dtos\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\PagedResult.cs",
+              "RelativeToolTip": "PD_FOOD.Domain\\Dtos\\PagedResult.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:30:34.85Z"
+              "WhenOpened": "2025-04-04T19:10:10.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SmtpSender.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\Services\\SmtpSender.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Worker\\Services\\SmtpSender.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Worker\\Services\\SmtpSender.cs",
-              "RelativeToolTip": "PD_FOOD.Worker\\Services\\SmtpSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 52,
+              "Title": "ExceptionMiddlewareTest.cs",
+              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
+              "RelativeDocumentMoniker": "PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
+              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
+              "RelativeToolTip": "PD_FOOD.Test\\Middleware\\ExceptionMiddlewareTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:33:34.042Z"
+              "WhenOpened": "2025-04-02T05:10:01.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateTransactionCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommandHandler.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\CreateTransactionCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommandHandler.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Commands\\CreateTransactionCommandHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:18:26.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainController.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\MainController.cs",
-              "RelativeDocumentMoniker": "PD_FOOD\\Controllers\\MainController.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Controllers\\MainController.cs",
-              "RelativeToolTip": "PD_FOOD\\Controllers\\MainController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T00:25:51.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateTransactionCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommand.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\CreateTransactionCommand.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommand.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Commands\\CreateTransactionCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:18:16.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PD_FOOD.Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAwFsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:31:25.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateTransactionCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommandValidator.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Commands\\CreateTransactionCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Commands\\CreateTransactionCommandValidator.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Commands\\CreateTransactionCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:18:39.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetNegativeBalanceDaysQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQuery.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQuery.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQuery.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Queries\\GetNegativeBalanceDaysQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:22:15.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PD_FOOD.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
-              "RelativeDocumentMoniker": "PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
-              "RelativeToolTip": "PD_FOOD.Domain\\PD_FOOD.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T03:20:59.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DailyBalanceDto.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
-              "RelativeToolTip": "PD_FOOD.Domain\\Dtos\\DailyBalanceDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:21:31.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FinancialTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
-              "RelativeToolTip": "PD_FOOD.Domain\\Entities\\FinancialTransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:28:53.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FinancialTransactionMap.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\FinancialTransactionMap\\FinancialTransactionMap.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Infrastructure\\FinancialTransactionMap\\FinancialTransactionMap.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Infrastructure\\FinancialTransactionMap\\FinancialTransactionMap.cs",
-              "RelativeToolTip": "PD_FOOD.Infrastructure\\FinancialTransactionMap\\FinancialTransactionMap.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:58:45.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetAllTransactionsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetAllTransactionsQuery.cs",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\Queries\\GetAllTransactionsQuery.cs",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\Queries\\GetAllTransactionsQuery.cs",
-              "RelativeToolTip": "PD_FOOD.Application\\Queries\\GetAllTransactionsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:21:41.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 53,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PD_FOOD\\Properties\\launchSettings.json",
@@ -431,31 +931,8 @@
               "RelativeToolTip": "PD_FOOD\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T00:09:03.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "PD_FOOD\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD\\appsettings.Development.json",
-              "RelativeToolTip": "PD_FOOD\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T02:22:28.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PD_FOOD.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\PD_FOOD.Application.csproj",
-              "RelativeDocumentMoniker": "PD_FOOD.Application\\PD_FOOD.Application.csproj",
-              "ToolTip": "C:\\Users\\Luan\\source\\repos\\PD_FOOD\\PD_FOOD.Application\\PD_FOOD.Application.csproj",
-              "RelativeToolTip": "PD_FOOD.Application\\PD_FOOD.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T01:16:43.454Z"
+              "WhenOpened": "2025-04-02T00:09:03.007Z",
+              "EditorCaption": ""
             }
           ]
         }
